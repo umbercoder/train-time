@@ -1,0 +1,21 @@
+
+.jumbotron {
+    color:rgb(17, 17, 19);
+    background-image: url('../images/train4.jpeg');
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover;
+    position: relative;
+    min-width: 800px;
+   
+
+}
+.header-text{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    font-weight: 900;
+    font-size: 75px !important;
+    text-align: center;
+    text-shadow: 2px 2px #337ab7;
+
+}
